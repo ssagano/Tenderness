@@ -1,5 +1,5 @@
 {
-.appVersion = "1021";
+.appVersion = "983";
 DisplayStrings = (
 "ABCDEFGHIJKLMNOPQRSTUVWXYZa/_cap.stm.top.1/_stem.1/_bowl.1 bc/_cap.stm.btm.4/_stem.2 de/_cap.stm.btm.3 fg/_stem.4/_shoulder.1 h/_cap.stm.mid.2/_cap.stm.btm.2/idotless/dotaccent i/jdotless j/_stem.4 kl/_cap.stm.mid.1 m/_stem.6 no/_stem.5 p/_stem.3 qrstuvwxyz",
 "\U00B7",
@@ -18,7 +18,8 @@ MVHWX,
 /Aogonek/Eogonek/Iogonek/Uogonek/aogonek/eogonek/iogonek/uogonek,
 ",",
 ",;/quotedblleft/quotedblright/quoteleft/quoteright",
-"A\U00C1/Abreve \U00C2/dieresis.cap \U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Ccaron \U00C7/Cdotaccent D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar I\U00CD\U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng \U00D1O\U00D3\U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent U\U00DA\U00DB\U00DC\U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XY\U00DD/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent a\U00E1/abreve \U00E2\U00A8\U00E4\U00E0/amacron/aogonek \U00E5\U00E3\U00E6bc/cacute/ccaron \U00E7/cdotaccent d\U00F0/dcaron/dcroat e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless \U00ED\U00EE\U00EF/idotaccent \U00EC/imacron/iogonek j/jdotless k/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng \U00F1o\U00F3\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent \U00DFt/tbar/tcaron/tcedilla/tcommaaccent u\U00FA\U00FB\U00FC\U00F9/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xy\U00FD/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/t.forliga.1/T_h/c_t/f_f/f_f_i/f_f_l/f_i/f_l/s_t 0123456789/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/fraction */backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_/numbersign.tf {}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase  \U00A2\U00A4$/euro \U00A3\U00A5/cent.tf/dollar.tf/euro.tf/sterling.tf/yen.tf +/minus \U00D7\U00F7=/notequal ></greaterequal/lessequal \U00B1/approxequal ~\U00AC/emptyset/infinity/integral/product/summation/radical/partialdiff %/perthousand/percent.tf/perthousand.tf/lozenge @&\U00B6\U00A7\U00A9\U00AE/trademark \U00B0|\U00A6/dagger/daggerdbl ^"
+"A\U00C1/Abreve \U00C2/dieresis.cap \U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Ccaron \U00C7/Cdotaccent D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar I\U00CD\U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng \U00D1O\U00D3\U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent U\U00DA\U00DB\U00DC\U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XY\U00DD/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent a\U00E1/abreve \U00E2\U00A8\U00E4\U00E0/amacron/aogonek \U00E5\U00E3\U00E6bc/cacute/ccaron \U00E7/cdotaccent d\U00F0/dcaron/dcroat e\U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless \U00ED\U00EE\U00EF/idotaccent \U00EC/imacron/iogonek j/jdotless k/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/_shoulder.1 n/ncommaaccent/eng \U00F1o\U00F3\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe p\U00FEqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent \U00DFt/tbar/tcaron/tcedilla/tcommaaccent u\U00FA\U00FB\U00FC\U00F9/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xy\U00FD/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/t.forliga.1/T_h/c_t/f_f/f_f_i/f_f_l/f_i/f_l/s_t 0123456789/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/fraction */backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_/numbersign.tf {}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase  \U00A2\U00A4$/euro \U00A3\U00A5/cent.tf/dollar.tf/euro.tf/sterling.tf/yen.tf +/minus \U00D7\U00F7=/notequal ></greaterequal/lessequal \U00B1/approxequal ~\U00AC/emptyset/infinity/integral/product/summation/radical/partialdiff %/perthousand/percent.tf/perthousand.tf/lozenge @&\U00B6\U00A7\U00A9\U00AE/trademark \U00B0|\U00A6/dagger/daggerdbl ^",
+"/_shoulder.1/_bowl.1/_stem.1/_stem.2/_stem.3/_stem.4/_stem.5/_stem.6 n/eng r/_zero.half/elem.percent.2/_corner.STM.out.1/elem.lcaron"
 );
 copyright = "Copyright (C) 2017 by Sora Sagano.";
 date = "2017-05-27 08:20:01 +0000";
@@ -7146,15 +7147,9 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2017-05-27 13:14:12 +0000";
+lastChange = "2017-08-13 10:49:02 +0000";
 layers = (
 {
-anchors = (
-{
-name = entry;
-position = "{156, 0}";
-}
-);
 components = (
 {
 alignment = -1;
@@ -18519,12 +18514,12 @@ width = 271;
 {
 export = 0;
 glyphname = _shoulder.1;
-lastChange = "2017-05-27 13:26:00 +0000";
+lastChange = "2017-08-13 10:45:13 +0000";
 layers = (
 {
 anchors = (
 {
-name = entry;
+name = $entry;
 position = "{155, 0}";
 }
 );
@@ -18897,12 +18892,12 @@ width = 271;
 {
 export = 0;
 glyphname = _bowl.1;
-lastChange = "2017-05-27 13:28:22 +0000";
+lastChange = "2017-08-13 10:45:09 +0000";
 layers = (
 {
 anchors = (
 {
-name = entry;
+name = $entry;
 position = "{22, 0}";
 }
 );
@@ -18951,12 +18946,12 @@ rightMetricsKey = o;
 {
 export = 0;
 glyphname = _stem.1;
-lastChange = "2017-05-27 12:20:46 +0000";
+lastChange = "2017-08-13 10:45:04 +0000";
 layers = (
 {
 anchors = (
 {
-name = exit;
+name = $exit;
 position = "{143, 0}";
 }
 );
@@ -18995,12 +18990,12 @@ width = 249;
 {
 export = 0;
 glyphname = _stem.2;
-lastChange = "2017-05-27 12:21:39 +0000";
+lastChange = "2017-08-13 10:45:00 +0000";
 layers = (
 {
 anchors = (
 {
-name = entry;
+name = $entry;
 position = "{81, 440}";
 }
 );
@@ -19041,12 +19036,12 @@ width = 241;
 {
 export = 0;
 glyphname = _stem.3;
-lastChange = "2017-05-28 02:33:44 +0000";
+lastChange = "2017-08-13 10:44:55 +0000";
 layers = (
 {
 anchors = (
 {
-name = entry;
+name = $entry;
 position = "{83, 440}";
 }
 );
@@ -19086,12 +19081,12 @@ width = 232;
 {
 export = 0;
 glyphname = _stem.4;
-lastChange = "2017-05-27 12:24:03 +0000";
+lastChange = "2017-08-13 10:44:49 +0000";
 layers = (
 {
 anchors = (
 {
-name = exit;
+name = $exit;
 position = "{153, 0}";
 }
 );
@@ -19128,12 +19123,12 @@ width = 508;
 {
 export = 0;
 glyphname = _stem.5;
-lastChange = "2017-05-27 12:27:00 +0000";
+lastChange = "2017-08-13 10:44:44 +0000";
 layers = (
 {
 anchors = (
 {
-name = exit;
+name = $exit;
 position = "{154, 0}";
 }
 );
@@ -19225,12 +19220,12 @@ width = 134;
 {
 export = 0;
 glyphname = _stem.6;
-lastChange = "2017-05-27 12:26:33 +0000";
+lastChange = "2017-08-13 10:44:38 +0000";
 layers = (
 {
 anchors = (
 {
-name = exit;
+name = $exit;
 position = "{156, 0}";
 }
 );
@@ -20416,5 +20411,5 @@ tH = "30";
 };
 };
 versionMajor = 0;
-versionMinor = 600;
+versionMinor = 601;
 }
